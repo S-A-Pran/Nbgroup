@@ -239,7 +239,7 @@ h2{
 .foot{
 	background-color: rgb(6, 1, 102);
 	height: 50vh;
-	width: 100vw;
+	width: 100%;
 	display: flex;
 }
 
